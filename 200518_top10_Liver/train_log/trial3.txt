@@ -1,0 +1,3150 @@
+
+
+[Gene 1] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23049])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23049])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.184 /   test loss : 0.21
+iteration : 10/500  -  train loss : 0.016 /   test loss : 0.217
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.185
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.185
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.185
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.185
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.186
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.185
+iteration : 240/500  -  train loss : 0.001 /   test loss : 0.185
+iteration : 250/500  -  train loss : 0.001 /   test loss : 0.182
+iteration : 260/500  -  train loss : 0.005 /   test loss : 0.196
+iteration : 270/500  -  train loss : 0.002 /   test loss : 0.189
+iteration : 280/500  -  train loss : 0.004 /   test loss : 0.196
+iteration : 290/500  -  train loss : 0.01 /   test loss : 0.208
+iteration : 300/500  -  train loss : 0.008 /   test loss : 0.187
+iteration : 310/500  -  train loss : 0.001 /   test loss : 0.188
+iteration : 320/500  -  train loss : 0.001 /   test loss : 0.191
+iteration : 330/500  -  train loss : 0.001 /   test loss : 0.192
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.19
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.189
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.189
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.188
+
+Training complete   //   Running time : 171  ------------
+
+
+[Gene 1] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23049])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23049])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.242 /   test loss : 0.323
+iteration : 10/500  -  train loss : 0.017 /   test loss : 0.358
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.308
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.316
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.312
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.313
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.313
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.314
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.314
+
+Training complete   //   Running time : 169  ------------
+
+
+[Gene 1] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23049])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23049])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.146 /   test loss : 0.262
+iteration : 10/500  -  train loss : 0.008 /   test loss : 0.241
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.237
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.242
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.242
+iteration : 140/500  -  train loss : 0.006 /   test loss : 0.246
+iteration : 150/500  -  train loss : 0.003 /   test loss : 0.243
+iteration : 160/500  -  train loss : 0.004 /   test loss : 0.247
+iteration : 170/500  -  train loss : 0.005 /   test loss : 0.242
+iteration : 180/500  -  train loss : 0.001 /   test loss : 0.24
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 200/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 210/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.242
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.24
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 300/500  -  train loss : 0.001 /   test loss : 0.241
+iteration : 310/500  -  train loss : 0.008 /   test loss : 0.247
+iteration : 320/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 330/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 340/500  -  train loss : 0.003 /   test loss : 0.243
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 360/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.242
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.242
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.241
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.241
+
+Training complete   //   Running time : 170  ------------
+
+
+[Gene 1] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23049])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23049])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.205 /   test loss : 0.491
+iteration : 10/500  -  train loss : 0.01 /   test loss : 0.343
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.346
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.34
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.34
+
+Training complete   //   Running time : 170  ------------
+
+
+[Gene 1] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 23049])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 23049])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.232 /   test loss : 0.282
+iteration : 10/500  -  train loss : 0.007 /   test loss : 0.193
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.192
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.195
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.195
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.194
+
+Training complete   //   Running time : 168  ------------
+
+
+[Gene 2] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22930])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22930])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.396 /   test loss : 0.572
+iteration : 10/500  -  train loss : 0.018 /   test loss : 0.527
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.549
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.539
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.538
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.539
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.539
+
+Training complete   //   Running time : 168  ------------
+
+
+[Gene 2] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22930])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22930])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.441 /   test loss : 1.187
+iteration : 10/500  -  train loss : 0.027 /   test loss : 0.777
+iteration : 20/500  -  train loss : 0.005 /   test loss : 0.805
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.788
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.783
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.783
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.781
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.782
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.782
+
+Training complete   //   Running time : 168  ------------
+
+
+[Gene 2] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22930])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22930])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.49 /   test loss : 0.532
+iteration : 10/500  -  train loss : 0.03 /   test loss : 0.424
+iteration : 20/500  -  train loss : 0.004 /   test loss : 0.438
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.442
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.44
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.44
+
+Training complete   //   Running time : 168  ------------
+
+
+[Gene 2] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22930])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22930])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.424 /   test loss : 0.589
+iteration : 10/500  -  train loss : 0.009 /   test loss : 0.476
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.427
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.447
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.448
+
+Training complete   //   Running time : 169  ------------
+
+
+[Gene 2] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 22930])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 22930])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.413 /   test loss : 0.409
+iteration : 10/500  -  train loss : 0.012 /   test loss : 0.322
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.317
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.317
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.318
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.316
+iteration : 230/500  -  train loss : 0.001 /   test loss : 0.316
+iteration : 240/500  -  train loss : 0.003 /   test loss : 0.317
+iteration : 250/500  -  train loss : 0.016 /   test loss : 0.328
+iteration : 260/500  -  train loss : 0.002 /   test loss : 0.32
+iteration : 270/500  -  train loss : 0.007 /   test loss : 0.331
+iteration : 280/500  -  train loss : 0.001 /   test loss : 0.323
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.321
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.321
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.321
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.321
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.32
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.32
+
+Training complete   //   Running time : 167  ------------
+
+
+[Gene 3] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 18753])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 18753])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.58 /   test loss : 0.316
+iteration : 10/500  -  train loss : 0.031 /   test loss : 0.241
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.241
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.252
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.249
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 180/500  -  train loss : 0.001 /   test loss : 0.259
+iteration : 190/500  -  train loss : 0.002 /   test loss : 0.237
+iteration : 200/500  -  train loss : 0.005 /   test loss : 0.275
+iteration : 210/500  -  train loss : 0.005 /   test loss : 0.264
+iteration : 220/500  -  train loss : 0.002 /   test loss : 0.24
+iteration : 230/500  -  train loss : 0.002 /   test loss : 0.233
+iteration : 240/500  -  train loss : 0.001 /   test loss : 0.242
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.228
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.236
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.232
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.232
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.233
+
+Training complete   //   Running time : 140  ------------
+
+
+[Gene 3] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 18753])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 18753])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.289 /   test loss : 1.615
+iteration : 10/500  -  train loss : 0.012 /   test loss : 1.104
+iteration : 20/500  -  train loss : 0.001 /   test loss : 1.059
+iteration : 30/500  -  train loss : 0.0 /   test loss : 1.05
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.051
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.052
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.053
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.051
+iteration : 160/500  -  train loss : 0.002 /   test loss : 1.048
+iteration : 170/500  -  train loss : 0.01 /   test loss : 1.033
+iteration : 180/500  -  train loss : 0.001 /   test loss : 1.051
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.06
+iteration : 200/500  -  train loss : 0.001 /   test loss : 1.07
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.063
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.063
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.064
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.061
+iteration : 380/500  -  train loss : 0.005 /   test loss : 1.066
+iteration : 390/500  -  train loss : 0.002 /   test loss : 1.081
+iteration : 400/500  -  train loss : 0.005 /   test loss : 1.05
+iteration : 410/500  -  train loss : 0.002 /   test loss : 1.055
+iteration : 420/500  -  train loss : 0.001 /   test loss : 1.072
+iteration : 430/500  -  train loss : 0.001 /   test loss : 1.07
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.067
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.066
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.065
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.067
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.066
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.066
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.065
+
+Training complete   //   Running time : 140  ------------
+
+
+[Gene 3] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 18753])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 18753])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.543 /   test loss : 0.317
+iteration : 10/500  -  train loss : 0.032 /   test loss : 0.253
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.258
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.258
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.258
+iteration : 230/500  -  train loss : 0.004 /   test loss : 0.264
+iteration : 240/500  -  train loss : 0.012 /   test loss : 0.262
+iteration : 250/500  -  train loss : 0.002 /   test loss : 0.244
+iteration : 260/500  -  train loss : 0.001 /   test loss : 0.244
+iteration : 270/500  -  train loss : 0.001 /   test loss : 0.248
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.247
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.246
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.246
+
+Training complete   //   Running time : 139  ------------
+
+
+[Gene 3] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 18753])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 18753])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.485 /   test loss : 0.638
+iteration : 10/500  -  train loss : 0.024 /   test loss : 0.448
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.441
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.431
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.431
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.432
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.432
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.43
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.427
+iteration : 190/500  -  train loss : 0.001 /   test loss : 0.435
+iteration : 200/500  -  train loss : 0.003 /   test loss : 0.434
+iteration : 210/500  -  train loss : 0.003 /   test loss : 0.43
+iteration : 220/500  -  train loss : 0.008 /   test loss : 0.424
+iteration : 230/500  -  train loss : 0.002 /   test loss : 0.43
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.421
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.424
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.423
+iteration : 460/500  -  train loss : 0.001 /   test loss : 0.423
+iteration : 470/500  -  train loss : 0.007 /   test loss : 0.429
+iteration : 480/500  -  train loss : 0.001 /   test loss : 0.422
+iteration : 490/500  -  train loss : 0.002 /   test loss : 0.402
+iteration : 500/500  -  train loss : 0.001 /   test loss : 0.403
+
+Training complete   //   Running time : 142  ------------
+
+
+[Gene 3] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 18753])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 18753])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.587 /   test loss : 0.443
+iteration : 10/500  -  train loss : 0.037 /   test loss : 0.231
+iteration : 20/500  -  train loss : 0.004 /   test loss : 0.215
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.206
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.205
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.205
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.204
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.205
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.205
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.205
+iteration : 270/500  -  train loss : 0.001 /   test loss : 0.202
+iteration : 280/500  -  train loss : 0.001 /   test loss : 0.207
+iteration : 290/500  -  train loss : 0.017 /   test loss : 0.23
+iteration : 300/500  -  train loss : 0.01 /   test loss : 0.21
+iteration : 310/500  -  train loss : 0.003 /   test loss : 0.204
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.203
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.203
+
+Training complete   //   Running time : 139  ------------
+
+
+[Gene 4] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23718])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23718])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.533 /   test loss : 0.321
+iteration : 10/500  -  train loss : 0.033 /   test loss : 0.313
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.293
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.292
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.292
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.293
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.293
+
+Training complete   //   Running time : 175  ------------
+
+
+[Gene 4] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23718])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23718])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.381 /   test loss : 0.913
+iteration : 10/500  -  train loss : 0.042 /   test loss : 0.936
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.912
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.92
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.915
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.915
+
+Training complete   //   Running time : 174  ------------
+
+
+[Gene 4] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23718])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23718])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.539 /   test loss : 0.678
+iteration : 10/500  -  train loss : 0.073 /   test loss : 0.56
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.468
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.467
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.466
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.469
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.47
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.47
+
+Training complete   //   Running time : 176  ------------
+
+
+[Gene 4] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 23718])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 23718])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.502 /   test loss : 0.975
+iteration : 10/500  -  train loss : 0.06 /   test loss : 0.823
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.718
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.721
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.726
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.726
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.728
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.727
+
+Training complete   //   Running time : 175  ------------
+
+
+[Gene 4] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 23718])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 23718])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.5 /   test loss : 0.32
+iteration : 10/500  -  train loss : 0.048 /   test loss : 0.303
+iteration : 20/500  -  train loss : 0.004 /   test loss : 0.282
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.273
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.271
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.273
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.272
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.272
+
+Training complete   //   Running time : 173  ------------
+
+
+[Gene 5] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 21013])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 21013])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.402 /   test loss : 0.945
+iteration : 10/500  -  train loss : 0.044 /   test loss : 1.002
+iteration : 20/500  -  train loss : 0.002 /   test loss : 1.055
+iteration : 30/500  -  train loss : 0.001 /   test loss : 1.068
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.068
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.068
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.068
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.069
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.072
+iteration : 230/500  -  train loss : 0.001 /   test loss : 1.059
+iteration : 240/500  -  train loss : 0.001 /   test loss : 1.082
+iteration : 250/500  -  train loss : 0.001 /   test loss : 1.074
+iteration : 260/500  -  train loss : 0.001 /   test loss : 1.072
+iteration : 270/500  -  train loss : 0.003 /   test loss : 1.066
+iteration : 280/500  -  train loss : 0.004 /   test loss : 1.079
+iteration : 290/500  -  train loss : 0.015 /   test loss : 1.054
+iteration : 300/500  -  train loss : 0.006 /   test loss : 1.064
+iteration : 310/500  -  train loss : 0.001 /   test loss : 1.044
+iteration : 320/500  -  train loss : 0.001 /   test loss : 1.035
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.035
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.043
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.044
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.041
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.041
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.041
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.042
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.042
+
+Training complete   //   Running time : 154  ------------
+
+
+[Gene 5] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 21013])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 21013])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.551 /   test loss : 0.186
+iteration : 10/500  -  train loss : 0.073 /   test loss : 0.357
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.426
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.454
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.449
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.449
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.449
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.452
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.448
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.45
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.449
+iteration : 240/500  -  train loss : 0.001 /   test loss : 0.447
+iteration : 250/500  -  train loss : 0.001 /   test loss : 0.453
+iteration : 260/500  -  train loss : 0.003 /   test loss : 0.449
+iteration : 270/500  -  train loss : 0.004 /   test loss : 0.451
+iteration : 280/500  -  train loss : 0.018 /   test loss : 0.42
+iteration : 290/500  -  train loss : 0.012 /   test loss : 0.43
+iteration : 300/500  -  train loss : 0.006 /   test loss : 0.39
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.363
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.363
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.368
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.366
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.364
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.365
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.365
+
+Training complete   //   Running time : 154  ------------
+
+
+[Gene 5] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 21013])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 21013])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.547 /   test loss : 0.354
+iteration : 10/500  -  train loss : 0.105 /   test loss : 0.38
+iteration : 20/500  -  train loss : 0.01 /   test loss : 0.391
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.405
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.405
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.403
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.403
+
+Training complete   //   Running time : 154  ------------
+
+
+[Gene 5] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 21013])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 21013])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.61 /   test loss : 0.314
+iteration : 10/500  -  train loss : 0.116 /   test loss : 0.234
+iteration : 20/500  -  train loss : 0.012 /   test loss : 0.283
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.265
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.27
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.269
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.269
+
+Training complete   //   Running time : 154  ------------
+
+
+[Gene 5] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 21013])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 21013])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.356 /   test loss : 1.217
+iteration : 10/500  -  train loss : 0.043 /   test loss : 1.228
+iteration : 20/500  -  train loss : 0.003 /   test loss : 1.286
+iteration : 30/500  -  train loss : 0.0 /   test loss : 1.285
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.28
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.282
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.282
+
+Training complete   //   Running time : 152  ------------
+
+
+[Gene 6] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 27389])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 27389])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.879 /   test loss : 1.845
+iteration : 10/500  -  train loss : 0.029 /   test loss : 1.149
+iteration : 20/500  -  train loss : 0.007 /   test loss : 1.129
+iteration : 30/500  -  train loss : 0.0 /   test loss : 1.144
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.14
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.139
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.14
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.14
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.141
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.141
+
+Training complete   //   Running time : 201  ------------
+
+
+[Gene 6] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 27389])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 27389])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.952 /   test loss : 0.621
+iteration : 10/500  -  train loss : 0.052 /   test loss : 0.541
+iteration : 20/500  -  train loss : 0.005 /   test loss : 0.441
+iteration : 30/500  -  train loss : 0.001 /   test loss : 0.486
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.478
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.476
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.473
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.474
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.474
+
+Training complete   //   Running time : 201  ------------
+
+
+[Gene 6] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 27389])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 27389])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.827 /   test loss : 1.788
+iteration : 10/500  -  train loss : 0.031 /   test loss : 1.211
+iteration : 20/500  -  train loss : 0.004 /   test loss : 1.186
+iteration : 30/500  -  train loss : 0.001 /   test loss : 1.177
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.181
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.179
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.18
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.179
+iteration : 410/500  -  train loss : 0.004 /   test loss : 1.188
+iteration : 420/500  -  train loss : 0.014 /   test loss : 1.197
+iteration : 430/500  -  train loss : 0.007 /   test loss : 1.177
+iteration : 440/500  -  train loss : 0.009 /   test loss : 1.166
+iteration : 450/500  -  train loss : 0.003 /   test loss : 1.164
+iteration : 460/500  -  train loss : 0.002 /   test loss : 1.163
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.156
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.16
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.162
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.159
+
+Training complete   //   Running time : 204  ------------
+
+
+[Gene 6] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 27389])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 27389])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.789 /   test loss : 1.599
+iteration : 10/500  -  train loss : 0.047 /   test loss : 1.107
+iteration : 20/500  -  train loss : 0.004 /   test loss : 1.193
+iteration : 30/500  -  train loss : 0.001 /   test loss : 1.162
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.171
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.171
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.172
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.172
+
+Training complete   //   Running time : 200  ------------
+
+
+[Gene 6] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 27389])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 27389])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.949 /   test loss : 0.387
+iteration : 10/500  -  train loss : 0.03 /   test loss : 0.385
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.384
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.393
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.397
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.396
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.395
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.397
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.397
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.4
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.402
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.404
+iteration : 230/500  -  train loss : 0.001 /   test loss : 0.384
+iteration : 240/500  -  train loss : 0.001 /   test loss : 0.388
+iteration : 250/500  -  train loss : 0.001 /   test loss : 0.399
+iteration : 260/500  -  train loss : 0.007 /   test loss : 0.437
+iteration : 270/500  -  train loss : 0.018 /   test loss : 0.455
+iteration : 280/500  -  train loss : 0.006 /   test loss : 0.365
+iteration : 290/500  -  train loss : 0.007 /   test loss : 0.352
+iteration : 300/500  -  train loss : 0.006 /   test loss : 0.358
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.38
+iteration : 320/500  -  train loss : 0.002 /   test loss : 0.401
+iteration : 330/500  -  train loss : 0.001 /   test loss : 0.396
+iteration : 340/500  -  train loss : 0.001 /   test loss : 0.396
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.391
+iteration : 360/500  -  train loss : 0.001 /   test loss : 0.395
+iteration : 370/500  -  train loss : 0.004 /   test loss : 0.409
+iteration : 380/500  -  train loss : 0.016 /   test loss : 0.455
+iteration : 390/500  -  train loss : 0.007 /   test loss : 0.424
+iteration : 400/500  -  train loss : 0.004 /   test loss : 0.359
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.371
+iteration : 420/500  -  train loss : 0.001 /   test loss : 0.385
+iteration : 430/500  -  train loss : 0.001 /   test loss : 0.365
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.38
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.369
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.375
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.373
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.375
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.373
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.374
+
+Training complete   //   Running time : 200  ------------
+
+
+[Gene 7] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 17331])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 17331])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.404 /   test loss : 0.509
+iteration : 10/500  -  train loss : 0.013 /   test loss : 0.459
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.454
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.447
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.446
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.446
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.445
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.444
+iteration : 360/500  -  train loss : 0.001 /   test loss : 0.443
+iteration : 370/500  -  train loss : 0.003 /   test loss : 0.445
+iteration : 380/500  -  train loss : 0.003 /   test loss : 0.448
+iteration : 390/500  -  train loss : 0.02 /   test loss : 0.448
+iteration : 400/500  -  train loss : 0.014 /   test loss : 0.477
+iteration : 410/500  -  train loss : 0.002 /   test loss : 0.44
+iteration : 420/500  -  train loss : 0.002 /   test loss : 0.443
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.438
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.438
+
+Training complete   //   Running time : 132  ------------
+
+
+[Gene 7] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 17331])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 17331])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.397 /   test loss : 0.473
+iteration : 10/500  -  train loss : 0.011 /   test loss : 0.514
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.493
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.491
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.494
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.493
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.496
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.493
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.493
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.495
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.492
+iteration : 190/500  -  train loss : 0.002 /   test loss : 0.487
+iteration : 200/500  -  train loss : 0.007 /   test loss : 0.476
+iteration : 210/500  -  train loss : 0.005 /   test loss : 0.501
+iteration : 220/500  -  train loss : 0.001 /   test loss : 0.484
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.485
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.484
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.483
+iteration : 260/500  -  train loss : 0.001 /   test loss : 0.481
+iteration : 270/500  -  train loss : 0.002 /   test loss : 0.479
+iteration : 280/500  -  train loss : 0.004 /   test loss : 0.475
+iteration : 290/500  -  train loss : 0.005 /   test loss : 0.476
+iteration : 300/500  -  train loss : 0.001 /   test loss : 0.488
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.481
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.479
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.484
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.483
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.482
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.483
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.483
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.483
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.484
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.486
+iteration : 410/500  -  train loss : 0.002 /   test loss : 0.491
+iteration : 420/500  -  train loss : 0.004 /   test loss : 0.494
+iteration : 430/500  -  train loss : 0.014 /   test loss : 0.519
+iteration : 440/500  -  train loss : 0.002 /   test loss : 0.475
+iteration : 450/500  -  train loss : 0.004 /   test loss : 0.493
+iteration : 460/500  -  train loss : 0.002 /   test loss : 0.474
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.48
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.481
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.476
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.481
+
+Training complete   //   Running time : 126  ------------
+
+
+[Gene 7] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 17331])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 17331])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.405 /   test loss : 0.318
+iteration : 10/500  -  train loss : 0.011 /   test loss : 0.282
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.272
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.261
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.268
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.267
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 180/500  -  train loss : 0.018 /   test loss : 0.332
+iteration : 190/500  -  train loss : 0.011 /   test loss : 0.306
+iteration : 200/500  -  train loss : 0.001 /   test loss : 0.257
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.248
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.254
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.257
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.255
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.254
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.253
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.251
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.254
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.254
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.256
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.257
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.252
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.253
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.261
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.25
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.259
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.257
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.246
+
+Training complete   //   Running time : 130  ------------
+
+
+[Gene 7] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 17331])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 17331])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.346 /   test loss : 1.509
+iteration : 10/500  -  train loss : 0.024 /   test loss : 1.113
+iteration : 20/500  -  train loss : 0.001 /   test loss : 1.217
+iteration : 30/500  -  train loss : 0.0 /   test loss : 1.223
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.202
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.202
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.203
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 110/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 120/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 130/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 140/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 150/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 470/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 480/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 490/500  -  train loss : 0.0 /   test loss : 1.204
+iteration : 500/500  -  train loss : 0.0 /   test loss : 1.204
+
+Training complete   //   Running time : 128  ------------
+
+
+[Gene 7] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 17331])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 17331])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.331 /   test loss : 0.68
+iteration : 10/500  -  train loss : 0.01 /   test loss : 0.513
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.518
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.518
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.519
+iteration : 200/500  -  train loss : 0.007 /   test loss : 0.517
+iteration : 210/500  -  train loss : 0.003 /   test loss : 0.533
+iteration : 220/500  -  train loss : 0.004 /   test loss : 0.531
+iteration : 230/500  -  train loss : 0.001 /   test loss : 0.527
+iteration : 240/500  -  train loss : 0.001 /   test loss : 0.522
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.521
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.52
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.52
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.526
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.525
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.524
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.523
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.523
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 420/500  -  train loss : 0.002 /   test loss : 0.523
+iteration : 430/500  -  train loss : 0.007 /   test loss : 0.521
+iteration : 440/500  -  train loss : 0.003 /   test loss : 0.521
+iteration : 450/500  -  train loss : 0.001 /   test loss : 0.528
+iteration : 460/500  -  train loss : 0.001 /   test loss : 0.53
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.522
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.525
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.525
+
+Training complete   //   Running time : 125  ------------
+
+
+[Gene 8] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22963])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22963])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.291 /   test loss : 0.377
+iteration : 10/500  -  train loss : 0.012 /   test loss : 0.254
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.24
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.235
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.233
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.234
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.234
+
+Training complete   //   Running time : 170  ------------
+
+
+[Gene 8] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22963])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22963])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.271 /   test loss : 0.46
+iteration : 10/500  -  train loss : 0.021 /   test loss : 0.286
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.266
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.265
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.264
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.264
+
+Training complete   //   Running time : 169  ------------
+
+
+[Gene 8] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22963])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22963])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.135 /   test loss : 0.16
+iteration : 10/500  -  train loss : 0.007 /   test loss : 0.137
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.141
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.144
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 120/500  -  train loss : 0.001 /   test loss : 0.144
+iteration : 130/500  -  train loss : 0.003 /   test loss : 0.142
+iteration : 140/500  -  train loss : 0.003 /   test loss : 0.146
+iteration : 150/500  -  train loss : 0.005 /   test loss : 0.144
+iteration : 160/500  -  train loss : 0.003 /   test loss : 0.138
+iteration : 170/500  -  train loss : 0.004 /   test loss : 0.149
+iteration : 180/500  -  train loss : 0.005 /   test loss : 0.148
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 200/500  -  train loss : 0.001 /   test loss : 0.142
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 260/500  -  train loss : 0.001 /   test loss : 0.142
+iteration : 270/500  -  train loss : 0.004 /   test loss : 0.141
+iteration : 280/500  -  train loss : 0.004 /   test loss : 0.143
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 300/500  -  train loss : 0.003 /   test loss : 0.142
+iteration : 310/500  -  train loss : 0.003 /   test loss : 0.139
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 390/500  -  train loss : 0.001 /   test loss : 0.14
+iteration : 400/500  -  train loss : 0.003 /   test loss : 0.143
+iteration : 410/500  -  train loss : 0.008 /   test loss : 0.143
+iteration : 420/500  -  train loss : 0.006 /   test loss : 0.143
+iteration : 430/500  -  train loss : 0.006 /   test loss : 0.143
+iteration : 440/500  -  train loss : 0.001 /   test loss : 0.143
+iteration : 450/500  -  train loss : 0.001 /   test loss : 0.139
+iteration : 460/500  -  train loss : 0.001 /   test loss : 0.139
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.139
+
+Training complete   //   Running time : 169  ------------
+
+
+[Gene 8] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22963])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22963])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.184 /   test loss : 0.171
+iteration : 10/500  -  train loss : 0.005 /   test loss : 0.183
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.19
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.187
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.18
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.182
+
+Training complete   //   Running time : 168  ------------
+
+
+[Gene 8] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 22963])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 22963])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.178 /   test loss : 0.359
+iteration : 10/500  -  train loss : 0.007 /   test loss : 0.191
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.194
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.195
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.193
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.194
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.195
+iteration : 340/500  -  train loss : 0.002 /   test loss : 0.199
+iteration : 350/500  -  train loss : 0.01 /   test loss : 0.214
+iteration : 360/500  -  train loss : 0.015 /   test loss : 0.192
+iteration : 370/500  -  train loss : 0.004 /   test loss : 0.2
+iteration : 380/500  -  train loss : 0.005 /   test loss : 0.199
+iteration : 390/500  -  train loss : 0.001 /   test loss : 0.19
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.19
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.19
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.192
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.191
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.191
+
+Training complete   //   Running time : 167  ------------
+
+
+[Gene 9] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22048])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22048])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.72 /   test loss : 0.88
+iteration : 10/500  -  train loss : 0.074 /   test loss : 0.785
+iteration : 20/500  -  train loss : 0.005 /   test loss : 0.819
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.814
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.81
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.815
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.812
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.812
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.812
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.806
+iteration : 140/500  -  train loss : 0.002 /   test loss : 0.798
+iteration : 150/500  -  train loss : 0.002 /   test loss : 0.809
+iteration : 160/500  -  train loss : 0.002 /   test loss : 0.808
+iteration : 170/500  -  train loss : 0.001 /   test loss : 0.795
+iteration : 180/500  -  train loss : 0.001 /   test loss : 0.82
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.82
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.812
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 220/500  -  train loss : 0.001 /   test loss : 0.804
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.808
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.815
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.812
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.804
+iteration : 270/500  -  train loss : 0.001 /   test loss : 0.828
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.809
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.816
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.817
+iteration : 310/500  -  train loss : 0.002 /   test loss : 0.784
+iteration : 320/500  -  train loss : 0.001 /   test loss : 0.817
+iteration : 330/500  -  train loss : 0.002 /   test loss : 0.832
+iteration : 340/500  -  train loss : 0.002 /   test loss : 0.793
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.802
+iteration : 360/500  -  train loss : 0.006 /   test loss : 0.846
+iteration : 370/500  -  train loss : 0.005 /   test loss : 0.782
+iteration : 380/500  -  train loss : 0.01 /   test loss : 0.85
+iteration : 390/500  -  train loss : 0.006 /   test loss : 0.837
+iteration : 400/500  -  train loss : 0.003 /   test loss : 0.807
+iteration : 410/500  -  train loss : 0.001 /   test loss : 0.818
+iteration : 420/500  -  train loss : 0.001 /   test loss : 0.831
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.813
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.814
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.806
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.805
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.808
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.804
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.821
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.813
+
+Training complete   //   Running time : 160  ------------
+
+
+[Gene 9] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22048])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22048])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.719 /   test loss : 0.606
+iteration : 10/500  -  train loss : 0.055 /   test loss : 0.756
+iteration : 20/500  -  train loss : 0.003 /   test loss : 0.829
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.841
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.842
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.843
+iteration : 150/500  -  train loss : 0.003 /   test loss : 0.843
+iteration : 160/500  -  train loss : 0.005 /   test loss : 0.843
+iteration : 170/500  -  train loss : 0.006 /   test loss : 0.84
+iteration : 180/500  -  train loss : 0.002 /   test loss : 0.839
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.83
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.829
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.827
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.828
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.828
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.828
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.83
+iteration : 260/500  -  train loss : 0.003 /   test loss : 0.833
+iteration : 270/500  -  train loss : 0.002 /   test loss : 0.832
+iteration : 280/500  -  train loss : 0.002 /   test loss : 0.828
+iteration : 290/500  -  train loss : 0.002 /   test loss : 0.825
+iteration : 300/500  -  train loss : 0.007 /   test loss : 0.838
+iteration : 310/500  -  train loss : 0.007 /   test loss : 0.825
+iteration : 320/500  -  train loss : 0.002 /   test loss : 0.824
+iteration : 330/500  -  train loss : 0.001 /   test loss : 0.821
+iteration : 340/500  -  train loss : 0.001 /   test loss : 0.821
+iteration : 350/500  -  train loss : 0.002 /   test loss : 0.825
+iteration : 360/500  -  train loss : 0.005 /   test loss : 0.826
+iteration : 370/500  -  train loss : 0.002 /   test loss : 0.827
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.822
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.819
+iteration : 400/500  -  train loss : 0.001 /   test loss : 0.822
+iteration : 410/500  -  train loss : 0.001 /   test loss : 0.818
+iteration : 420/500  -  train loss : 0.001 /   test loss : 0.821
+iteration : 430/500  -  train loss : 0.001 /   test loss : 0.821
+iteration : 440/500  -  train loss : 0.001 /   test loss : 0.822
+iteration : 450/500  -  train loss : 0.001 /   test loss : 0.82
+iteration : 460/500  -  train loss : 0.001 /   test loss : 0.823
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.819
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.82
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.821
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.819
+
+Training complete   //   Running time : 160  ------------
+
+
+[Gene 9] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22048])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22048])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.523 /   test loss : 1.374
+iteration : 10/500  -  train loss : 0.027 /   test loss : 1.467
+iteration : 20/500  -  train loss : 0.003 /   test loss : 1.487
+iteration : 30/500  -  train loss : 0.001 /   test loss : 1.491
+iteration : 40/500  -  train loss : 0.0 /   test loss : 1.491
+iteration : 50/500  -  train loss : 0.0 /   test loss : 1.491
+iteration : 60/500  -  train loss : 0.0 /   test loss : 1.49
+iteration : 70/500  -  train loss : 0.0 /   test loss : 1.489
+iteration : 80/500  -  train loss : 0.0 /   test loss : 1.49
+iteration : 90/500  -  train loss : 0.0 /   test loss : 1.49
+iteration : 100/500  -  train loss : 0.0 /   test loss : 1.489
+iteration : 110/500  -  train loss : 0.001 /   test loss : 1.489
+iteration : 120/500  -  train loss : 0.03 /   test loss : 1.496
+iteration : 130/500  -  train loss : 0.011 /   test loss : 1.485
+iteration : 140/500  -  train loss : 0.008 /   test loss : 1.482
+iteration : 150/500  -  train loss : 0.003 /   test loss : 1.477
+iteration : 160/500  -  train loss : 0.0 /   test loss : 1.481
+iteration : 170/500  -  train loss : 0.0 /   test loss : 1.48
+iteration : 180/500  -  train loss : 0.0 /   test loss : 1.48
+iteration : 190/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 200/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 210/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 220/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 230/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 240/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 250/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 260/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 270/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 280/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 290/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 300/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 310/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 320/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 330/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 340/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 350/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 360/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 370/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 380/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 390/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 400/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 410/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 420/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 430/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 440/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 450/500  -  train loss : 0.0 /   test loss : 1.479
+iteration : 460/500  -  train loss : 0.0 /   test loss : 1.48
+iteration : 470/500  -  train loss : 0.002 /   test loss : 1.477
+iteration : 480/500  -  train loss : 0.049 /   test loss : 1.513
+iteration : 490/500  -  train loss : 0.017 /   test loss : 1.477
+iteration : 500/500  -  train loss : 0.001 /   test loss : 1.473
+
+Training complete   //   Running time : 159  ------------
+
+
+[Gene 9] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 22048])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 22048])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.649 /   test loss : 0.87
+iteration : 10/500  -  train loss : 0.049 /   test loss : 0.962
+iteration : 20/500  -  train loss : 0.004 /   test loss : 0.958
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.968
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.967
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.966
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.966
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.966
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.967
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.966
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.966
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.967
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.969
+iteration : 130/500  -  train loss : 0.005 /   test loss : 0.975
+iteration : 140/500  -  train loss : 0.002 /   test loss : 0.964
+iteration : 150/500  -  train loss : 0.004 /   test loss : 0.958
+iteration : 160/500  -  train loss : 0.002 /   test loss : 0.96
+iteration : 170/500  -  train loss : 0.001 /   test loss : 0.959
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.959
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.957
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.958
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.958
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.956
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.958
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.957
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.958
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.957
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.956
+iteration : 280/500  -  train loss : 0.002 /   test loss : 0.953
+iteration : 290/500  -  train loss : 0.016 /   test loss : 0.968
+iteration : 300/500  -  train loss : 0.01 /   test loss : 0.98
+iteration : 310/500  -  train loss : 0.002 /   test loss : 0.951
+iteration : 320/500  -  train loss : 0.001 /   test loss : 0.956
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.954
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.952
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.95
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.952
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.951
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.952
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.95
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.953
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.95
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.952
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.951
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.95
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.95
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.952
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.951
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.951
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.949
+iteration : 500/500  -  train loss : 0.005 /   test loss : 0.948
+
+Training complete   //   Running time : 159  ------------
+
+
+[Gene 9] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 22048])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 22048])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.692 /   test loss : 0.715
+iteration : 10/500  -  train loss : 0.058 /   test loss : 0.732
+iteration : 20/500  -  train loss : 0.002 /   test loss : 0.717
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.732
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.72
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.724
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.725
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.723
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.722
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.724
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.719
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.724
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.727
+iteration : 130/500  -  train loss : 0.003 /   test loss : 0.743
+iteration : 140/500  -  train loss : 0.001 /   test loss : 0.728
+iteration : 150/500  -  train loss : 0.002 /   test loss : 0.727
+iteration : 160/500  -  train loss : 0.003 /   test loss : 0.709
+iteration : 170/500  -  train loss : 0.001 /   test loss : 0.716
+iteration : 180/500  -  train loss : 0.001 /   test loss : 0.726
+iteration : 190/500  -  train loss : 0.002 /   test loss : 0.706
+iteration : 200/500  -  train loss : 0.001 /   test loss : 0.726
+iteration : 210/500  -  train loss : 0.001 /   test loss : 0.723
+iteration : 220/500  -  train loss : 0.002 /   test loss : 0.707
+iteration : 230/500  -  train loss : 0.004 /   test loss : 0.74
+iteration : 240/500  -  train loss : 0.002 /   test loss : 0.707
+iteration : 250/500  -  train loss : 0.003 /   test loss : 0.705
+iteration : 260/500  -  train loss : 0.004 /   test loss : 0.735
+iteration : 270/500  -  train loss : 0.002 /   test loss : 0.718
+iteration : 280/500  -  train loss : 0.002 /   test loss : 0.713
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.717
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.719
+iteration : 310/500  -  train loss : 0.001 /   test loss : 0.715
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.713
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.718
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.715
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.717
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.714
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.721
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.715
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.715
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.72
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.718
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.72
+iteration : 430/500  -  train loss : 0.001 /   test loss : 0.722
+iteration : 440/500  -  train loss : 0.01 /   test loss : 0.753
+iteration : 450/500  -  train loss : 0.002 /   test loss : 0.708
+iteration : 460/500  -  train loss : 0.01 /   test loss : 0.752
+iteration : 470/500  -  train loss : 0.003 /   test loss : 0.713
+iteration : 480/500  -  train loss : 0.001 /   test loss : 0.707
+iteration : 490/500  -  train loss : 0.001 /   test loss : 0.702
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.707
+
+Training complete   //   Running time : 161  ------------
+
+
+[Gene 10] Model 1 ( tissue 27 ) - 1/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 12638])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 12638])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.124 /   test loss : 0.215
+iteration : 10/500  -  train loss : 0.005 /   test loss : 0.178
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.183
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 150/500  -  train loss : 0.008 /   test loss : 0.193
+iteration : 160/500  -  train loss : 0.007 /   test loss : 0.185
+iteration : 170/500  -  train loss : 0.002 /   test loss : 0.186
+iteration : 180/500  -  train loss : 0.001 /   test loss : 0.183
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.181
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 360/500  -  train loss : 0.001 /   test loss : 0.185
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 390/500  -  train loss : 0.002 /   test loss : 0.183
+iteration : 400/500  -  train loss : 0.003 /   test loss : 0.188
+iteration : 410/500  -  train loss : 0.002 /   test loss : 0.183
+iteration : 420/500  -  train loss : 0.002 /   test loss : 0.186
+iteration : 430/500  -  train loss : 0.004 /   test loss : 0.186
+iteration : 440/500  -  train loss : 0.002 /   test loss : 0.184
+iteration : 450/500  -  train loss : 0.001 /   test loss : 0.183
+iteration : 460/500  -  train loss : 0.001 /   test loss : 0.183
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.185
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.184
+
+Training complete   //   Running time :  94  ------------
+
+
+[Gene 10] Model 1 ( tissue 27 ) - 2/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 12638])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 12638])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.13 /   test loss : 0.179
+iteration : 10/500  -  train loss : 0.005 /   test loss : 0.134
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.139
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.138
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.138
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.139
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.143
+iteration : 140/500  -  train loss : 0.003 /   test loss : 0.148
+iteration : 150/500  -  train loss : 0.001 /   test loss : 0.136
+iteration : 160/500  -  train loss : 0.001 /   test loss : 0.137
+iteration : 170/500  -  train loss : 0.002 /   test loss : 0.135
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.138
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.144
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 400/500  -  train loss : 0.001 /   test loss : 0.149
+iteration : 410/500  -  train loss : 0.005 /   test loss : 0.156
+iteration : 420/500  -  train loss : 0.004 /   test loss : 0.153
+iteration : 430/500  -  train loss : 0.002 /   test loss : 0.152
+iteration : 440/500  -  train loss : 0.002 /   test loss : 0.149
+iteration : 450/500  -  train loss : 0.001 /   test loss : 0.146
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.142
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.14
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.141
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.142
+
+Training complete   //   Running time :  94  ------------
+
+
+[Gene 10] Model 1 ( tissue 27 ) - 3/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 12638])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 12638])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.128 /   test loss : 0.247
+iteration : 10/500  -  train loss : 0.007 /   test loss : 0.161
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.152
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.155
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.154
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.155
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.155
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.153
+iteration : 290/500  -  train loss : 0.001 /   test loss : 0.156
+iteration : 300/500  -  train loss : 0.01 /   test loss : 0.168
+iteration : 310/500  -  train loss : 0.006 /   test loss : 0.156
+iteration : 320/500  -  train loss : 0.003 /   test loss : 0.155
+iteration : 330/500  -  train loss : 0.001 /   test loss : 0.158
+iteration : 340/500  -  train loss : 0.001 /   test loss : 0.156
+iteration : 350/500  -  train loss : 0.001 /   test loss : 0.154
+iteration : 360/500  -  train loss : 0.001 /   test loss : 0.158
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.155
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.156
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.156
+
+Training complete   //   Running time :  94  ------------
+
+
+[Gene 10] Model 1 ( tissue 27 ) - 4/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([123, 12638])  /  torch.Size([123, 1])
+Test data :  torch.Size([30, 12638])  /  torch.Size([30, 1])
+
+
+iteration : 0/500  -  train loss : 0.125 /   test loss : 0.189
+iteration : 10/500  -  train loss : 0.004 /   test loss : 0.19
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.187
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.187
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.187
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.187
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.188
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.187
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.186
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 190/500  -  train loss : 0.001 /   test loss : 0.191
+iteration : 200/500  -  train loss : 0.011 /   test loss : 0.191
+iteration : 210/500  -  train loss : 0.002 /   test loss : 0.187
+iteration : 220/500  -  train loss : 0.003 /   test loss : 0.185
+iteration : 230/500  -  train loss : 0.001 /   test loss : 0.189
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.182
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.184
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.183
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.183
+
+Training complete   //   Running time :  95  ------------
+
+
+[Gene 10] Model 1 ( tissue 27 ) - 5/5 fold data
+Option : # of base nodes : 4096
+
+Data shape @@@@@@
+Train data :  torch.Size([120, 12638])  /  torch.Size([120, 1])
+Test data :  torch.Size([33, 12638])  /  torch.Size([33, 1])
+
+
+iteration : 0/500  -  train loss : 0.142 /   test loss : 0.183
+iteration : 10/500  -  train loss : 0.006 /   test loss : 0.129
+iteration : 20/500  -  train loss : 0.001 /   test loss : 0.129
+iteration : 30/500  -  train loss : 0.0 /   test loss : 0.131
+iteration : 40/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 50/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 60/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 70/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 80/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 90/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 100/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 110/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 120/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 130/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 140/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 150/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 160/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 170/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 180/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 190/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 200/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 210/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 220/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 230/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 240/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 250/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 260/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 270/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 280/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 290/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 300/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 310/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 320/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 330/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 340/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 350/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 360/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 370/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 380/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 390/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 400/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 410/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 420/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 430/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 440/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 450/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 460/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 470/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 480/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 490/500  -  train loss : 0.0 /   test loss : 0.129
+iteration : 500/500  -  train loss : 0.0 /   test loss : 0.129
+
+Training complete   //   Running time :  93  ------------
